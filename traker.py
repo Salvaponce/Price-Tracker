@@ -1,16 +1,5 @@
-# Run the browser
-# Go to Amazon
-# Look for our items (scrape)
-# Put in the search bar our items
-# Go throught multiple pages (scrape the item list and get ALL liks)
-# Loop throght each link, and get all data from each product and store in memory
-# Create a report based in our data
-
-# Have the purspose to not be blocked by amazon
-
 import datetime
 import json
-from msilib.schema import Directory
 import re
 import time
 import amazon_config as ac
