@@ -1,0 +1,51 @@
+{
+  "name": "Crema hidratante",
+  "date": "09/05/2022 20:30:36",
+  "best_item": {
+    "asin": "B07Y2CR9HN/",
+    "url": "https://www.amazon.es//dp/B07Y2CR9HN/",
+    "title": "NIVEA Care (1 x 400 ml), crema hidratante para cuerpo, cara y manos, crema nutritiva de r\u00e1pida absorci\u00f3n para una hidrataci\u00f3n profunda 24 horas",
+    "seller": "Visita la Store de NIVEA",
+    "price": 3.6
+  },
+  "currency": "\u20ac",
+  "filters": { "minp": "10", "maxp": "20" },
+  "base_link": "https://www.amazon.es/",
+  "products": [
+    {
+      "asin": "B07Y2CR9HN/",
+      "url": "https://www.amazon.es//dp/B07Y2CR9HN/",
+      "title": "NIVEA Care (1 x 400 ml), crema hidratante para cuerpo, cara y manos, crema nutritiva de r\u00e1pida absorci\u00f3n para una hidrataci\u00f3n profunda 24 horas",
+      "seller": "Visita la Store de NIVEA",
+      "price": 3.6
+    },
+    {
+      "asin": "B08L5PSNVN/",
+      "url": "https://www.amazon.es//dp/B08L5PSNVN/",
+      "title": "NIVEA Crema de D\u00eda Nutritiva FP30 (1 x 50 ml), crema facial con protector solar 30, crema hidratante facial para piel seca y sensible con manteca de karit\u00e9",
+      "seller": "Visita la Store de NIVEA",
+      "price": 5.69
+    },
+    {
+      "asin": "B08YGKNM2Y/",
+      "url": "https://www.amazon.es//dp/B08YGKNM2Y/",
+      "title": "L'Or\u00e9al Men Expert VitaLift - Crema hidratante, anti-edad integral, para hombres, 100ml, formato XL",
+      "seller": "Visita la Store de L'\u00d3real",
+      "price": 15.15
+    },
+    {
+      "asin": "B08L5PSNVN/",
+      "url": "https://www.amazon.es//dp/B08L5PSNVN/",
+      "title": "NIVEA Crema de D\u00eda Nutritiva FP30 (1 x 50 ml), crema facial con protector solar 30, crema hidratante facial para piel seca y sensible con manteca de karit\u00e9",
+      "seller": "Visita la Store de NIVEA",
+      "price": 5.69
+    },
+    {
+      "asin": "B07ZPFLBJ2/",
+      "url": "https://www.amazon.es//dp/B07ZPFLBJ2/",
+      "title": "Neutrogena Crema Hidratante Corporal, Reparaci\u00f3n Intensa, 2x750ml",
+      "seller": "Visita la Store de Neutrogena",
+      "price": 13.69
+    }
+  ]
+}
